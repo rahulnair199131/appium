@@ -8,4 +8,4 @@ Forth line committed from GitHub Online
 
 Fifth line commited for pull testing in git
 
-Sixth line for conflict test in laptop
+Sixth line online github cnflict test
